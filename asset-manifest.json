@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfael/static/css/main.a9f31529.chunk.css",
-    "main.js": "/portfael/static/js/main.32d9feb4.chunk.js",
-    "main.js.map": "/portfael/static/js/main.32d9feb4.chunk.js.map",
+    "main.js": "/portfael/static/js/main.64b5002c.chunk.js",
+    "main.js.map": "/portfael/static/js/main.64b5002c.chunk.js.map",
     "runtime-main.js": "/portfael/static/js/runtime-main.21f2d5ff.js",
     "runtime-main.js.map": "/portfael/static/js/runtime-main.21f2d5ff.js.map",
     "static/css/2.299a5230.chunk.css": "/portfael/static/css/2.299a5230.chunk.css",
     "static/js/2.0e3060da.chunk.js": "/portfael/static/js/2.0e3060da.chunk.js",
     "static/js/2.0e3060da.chunk.js.map": "/portfael/static/js/2.0e3060da.chunk.js.map",
     "index.html": "/portfael/index.html",
-    "precache-manifest.f13100acb20d6bfeffa04e08df134b5f.js": "/portfael/precache-manifest.f13100acb20d6bfeffa04e08df134b5f.js",
+    "precache-manifest.d32776f453229a2581ef68bdda72438b.js": "/portfael/precache-manifest.d32776f453229a2581ef68bdda72438b.js",
     "service-worker.js": "/portfael/service-worker.js",
     "static/css/2.299a5230.chunk.css.map": "/portfael/static/css/2.299a5230.chunk.css.map",
     "static/css/main.a9f31529.chunk.css.map": "/portfael/static/css/main.a9f31529.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.299a5230.chunk.css",
     "static/js/2.0e3060da.chunk.js",
     "static/css/main.a9f31529.chunk.css",
-    "static/js/main.32d9feb4.chunk.js"
+    "static/js/main.64b5002c.chunk.js"
   ]
 }
